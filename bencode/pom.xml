@@ -11,6 +11,8 @@
 
     <artifactId>bencode</artifactId>
 
+    <description>实现BEncode协议，可以解码BitTorrent，转换成Magnet链接。也可以将对象格式编码成BitTorrent。</description>
+
     <dependencies>
         <dependency>
             <groupId>commons-io</groupId>
